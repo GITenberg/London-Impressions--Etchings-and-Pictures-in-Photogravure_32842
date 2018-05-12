@@ -1,0 +1,38 @@
+_repo: London-Impressions--Etchings-and-Pictures-in-Photogravure_32842
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hyde, William Henry
+    birthdate: 1858
+    deathdate: 1925
+    gutenberg_agent_id: '33981'
+    url: http://www.gutenberg.org/2009/agents/33981
+covers:
+- cover_type: archival
+  image_path: 32842-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: Meynell, Alice
+    aliases:
+    - Meynell, Alice Christiana Thompson
+    - Thompson, A. C. (Alice Christiana)
+    birthdate: 1847
+    deathdate: 1922
+    gutenberg_agent_id: '546'
+    url: http://www.gutenberg.org/2009/agents/546
+    wikipedia: http://en.wikipedia.org/wiki/Alice_Meynell
+description: ''
+gutenberg_issued: '2010-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32842'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- Pictorial works'
+- !lcc 'DA'
+- !lcsh 'London (England) -- Description and travel'
+title: 'London Impressions: Etchings and Pictures in Photogravure'
+url: http://www.gutenberg.org/ebooks/32842
